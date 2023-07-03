@@ -10,3 +10,5 @@ This lab is intended to educate on how to use Instana to monitor your environmen
 3) In the 3rd section of the lab, students will explore the monitoring capabilities of Instana in relation to CPU and memory of their system.
 
 4) Finally, students will perform a diagnostic scenario.
+
+For more details follow this blog - https://bipinchandra1.github.io/instana/
